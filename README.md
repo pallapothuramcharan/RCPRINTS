@@ -127,7 +127,22 @@
       </div>
     </div>
   </section>
-
+  </section>
+  <section id="testimonials">
+    <h2 class="section-title">What Our Customers Say</h2>
+    <div class="card">
+      <p>"RC Prints delivered exactly what I needed for my DIY project. The quality is top-notch and service was fast!"</p>
+      <p><strong>- Akash Reddy</strong></p>
+    </div>
+    <div class="card">
+      <p>"Got a custom phone stand printed — looks amazing and was delivered in just 2 days. Highly recommend!"</p>
+      <p><strong>- Sneha Patel</strong></p>
+    </div>
+    <div class="card">
+      <p>"I sent them a rough idea and they helped me with design and printing. The final prototype was perfect!"</p>
+      <p><strong>- Mohan K.</strong></p>
+    </div>
+  </section>
   <section id="owner-profile">
     <h2 class="section-title">About the Owner</h2>
     <div class="profile-container">
